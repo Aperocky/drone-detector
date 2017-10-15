@@ -1,0 +1,1 @@
+ACTION=="remove", ENV{ID_VENDOR_ID}=="093a", ENV{ID_MODEL_ID}=="2510", RUN+="/sbin/shutdown -h now"
