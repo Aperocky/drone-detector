@@ -2,10 +2,10 @@
  
 # Sleep to wait for system ready
 
-sleep 10
+sleep 60
 filename="/home/pi/workspace/wiflistener/records.log"
 echo "Starting script at $(date)" >> $filename
-wpa_cli scan
+wpa_cli scan >> $filename
 
 loop=99999
 
