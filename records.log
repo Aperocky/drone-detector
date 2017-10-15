@@ -1,0 +1,1449 @@
+Starting script at Sun 15 Oct 15:23:53 EDT 2017
+ITERATION 1
+Sun 15 Oct 15:23:53 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 1
+ITERATION 2
+Sun 15 Oct 15:23:58 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 2
+ITERATION 3
+Sun 15 Oct 15:24:03 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 3
+ITERATION 4
+Sun 15 Oct 15:24:08 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 4
+ITERATION 5
+Sun 15 Oct 15:24:13 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 5
+ITERATION 6
+Sun 15 Oct 15:24:18 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 6
+ITERATION 7
+Sun 15 Oct 15:24:23 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 7
+ITERATION 8
+Sun 15 Oct 15:24:28 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 8
+ITERATION 9
+Sun 15 Oct 15:24:33 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 9
+ITERATION 10
+Sun 15 Oct 15:24:38 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 10
+ITERATION 11
+Sun 15 Oct 15:24:43 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 11
+ITERATION 12
+Sun 15 Oct 15:24:48 EDT 2017
+d4:a0:2a:4b:95:11	2412	-67	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-68	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-70	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-82	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-47	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-69	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-62	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-69	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-73	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-75	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-77	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-79	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-82	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-83	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-84	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-94	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 12
+ITERATION 13
+Sun 15 Oct 15:24:53 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 13
+ITERATION 14
+Sun 15 Oct 15:24:58 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 14
+ITERATION 15
+Sun 15 Oct 15:25:03 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 15
+ITERATION 16
+Sun 15 Oct 15:25:08 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 16
+ITERATION 17
+Sun 15 Oct 15:25:13 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 17
+ITERATION 18
+Sun 15 Oct 15:25:18 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 18
+ITERATION 19
+Sun 15 Oct 15:25:23 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 19
+ITERATION 20
+Sun 15 Oct 15:25:28 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 20
+ITERATION 21
+Sun 15 Oct 15:25:33 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 21
+ITERATION 22
+Sun 15 Oct 15:25:38 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 22
+ITERATION 23
+Sun 15 Oct 15:25:44 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 23
+ITERATION 24
+Sun 15 Oct 15:25:49 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 24
+ITERATION 25
+Sun 15 Oct 15:25:54 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 25
+ITERATION 26
+Sun 15 Oct 15:25:59 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 26
+ITERATION 27
+Sun 15 Oct 15:26:04 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 27
+ITERATION 28
+Sun 15 Oct 15:26:09 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 28
+ITERATION 29
+Sun 15 Oct 15:26:14 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 29
+ITERATION 30
+Sun 15 Oct 15:26:19 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 30
+ITERATION 31
+Sun 15 Oct 15:26:24 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 31
+ITERATION 32
+Sun 15 Oct 15:26:29 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 32
+ITERATION 33
+Sun 15 Oct 15:26:34 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 33
+ITERATION 34
+Sun 15 Oct 15:26:39 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 34
+ITERATION 35
+Sun 15 Oct 15:26:44 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 35
+ITERATION 36
+Sun 15 Oct 15:26:49 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d4:a0:2a:4b:95:10	2412	-71	[ESS]	DukeOpen
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+00:42:68:c1:82:01	2437	-89	[WPA2-EAP-CCMP][ESS]	eduroam
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 36
+ITERATION 37
+Sun 15 Oct 15:26:54 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 37
+ITERATION 38
+Sun 15 Oct 15:26:59 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 38
+ITERATION 39
+Sun 15 Oct 15:27:04 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 39
+ITERATION 40
+Sun 15 Oct 15:27:09 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 40
+ITERATION 41
+Sun 15 Oct 15:27:14 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 41
+ITERATION 42
+Sun 15 Oct 15:27:19 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 42
+ITERATION 43
+Sun 15 Oct 15:27:24 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 43
+ITERATION 44
+Sun 15 Oct 15:27:29 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 44
+ITERATION 45
+Sun 15 Oct 15:27:34 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 45
+ITERATION 46
+Sun 15 Oct 15:27:39 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 46
+ITERATION 47
+Sun 15 Oct 15:27:44 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 47
+ITERATION 48
+Sun 15 Oct 15:27:49 EDT 2017
+d4:a0:2a:4b:95:11	2412	-74	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-74	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-72	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-72	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-48	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-73	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-71	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-71	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-71	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-79	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:24:44:73	2437	-82	[WPA2-EAP-CCMP][ESS]	Dukeblue
+c4:0a:cb:24:44:72	2437	-85	[ESS]	DukeVisitor
+c4:0a:cb:24:44:71	2437	-83	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:30	2437	-72	[ESS]	DukeOpen
+c4:0a:cb:24:44:70	2437	-80	[ESS]	DukeOpen
+42:49:0f:21:36:b2	2437	-87	[WPA2-PSK-CCMP][WPS][ESS][P2P]	DIRECT-b2-HP M452 LaserJet
+14:91:82:f0:1f:82	2457	-91	[WPA2-PSK-CCMP][WPS][ESS]	HAL-vicon
+END ITERATION 48
+ITERATION 49
+Sun 15 Oct 15:27:54 EDT 2017
+d4:a0:2a:4b:95:11	2412	-71	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-71	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-73	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-84	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-58	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-72	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-72	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-70	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-70	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-78	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-73	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-76	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:cc:61	2437	-87	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:cc:63	2437	-87	[WPA2-EAP-CCMP][ESS]	Dukeblue
+ac:9e:17:64:c0:5c	2412	-95	[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]	TheClacks2.4
+d4:a0:2a:4b:95:10	2412	-72	[ESS]	DukeOpen
+c4:0a:cb:a4:cc:62	2437	-86	[ESS]	DukeVisitor
+c4:0a:cb:a4:cc:60	2437	-88	[ESS]	DukeOpen
+END ITERATION 49
+ITERATION 50
+Sun 15 Oct 15:27:59 EDT 2017
+d4:a0:2a:4b:95:11	2412	-71	[WPA2-EAP-CCMP][ESS]	eduroam
+d4:a0:2a:4b:95:13	2412	-71	[WPA2-EAP-CCMP][ESS]	Dukeblue
+54:a2:74:0a:10:81	2437	-73	[WPA2-EAP-CCMP][ESS]	eduroam
+54:a2:74:0a:10:83	2437	-69	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c3	2412	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+f4:f2:6d:6f:d3:7b	2412	-84	[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]	TP-LINK_D37B
+d0:bf:9c:38:cf:4c	2412	-58	[ESS]	HP-Print-4C-ENVY 5530 series
+d4:a0:2a:4b:95:12	2412	-72	[ESS]	DukeVisitor
+9c:d2:1e:54:b2:73	2437	-64	[ESS]	HP-Print-73-Color LaserJet MFP
+54:a2:74:0a:10:80	2437	-72	[ESS]	DukeOpen
+54:a2:74:0a:10:82	2437	-70	[ESS]	DukeVisitor
+d8:5d:e2:70:2c:ab	2437	-70	[ESS]	NB128
+d4:a0:2a:48:44:c0	2412	-74	[ESS]	DukeOpen
+d4:a0:2a:48:44:c2	2412	-78	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:31	2437	-73	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:c7:32	2437	-76	[ESS]	DukeVisitor
+c4:0a:cb:a4:c7:30	2437	-77	[ESS]	DukeOpen
+c4:0a:cb:a4:c7:33	2437	-76	[WPA2-EAP-CCMP][ESS]	Dukeblue
+d4:a0:2a:48:44:c1	2412	-76	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:cc:61	2437	-87	[WPA2-EAP-CCMP][ESS]	eduroam
+c4:0a:cb:a4:cc:63	2437	-87	[WPA2-EAP-CCMP][ESS]	Dukeblue
+ac:9e:17:64:c0:5c	2412	-95	[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]	TheClacks2.4
+d4:a0:2a:4b:95:10	2412	-72	[ESS]	DukeOpen
+c4:0a:cb:a4:cc:62	2437	-86	[ESS]	DukeVisitor
+c4:0a:cb:a4:cc:60	2437	-88	[ESS]	DukeOpen
+END ITERATION 50
