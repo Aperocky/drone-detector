@@ -1,10 +1,19 @@
 #!/bin/bash
  
 # Sleep to wait for system ready
-
-sleep 30
-filename="/home/pi/workspace/wiflistener/records.log"
+cd /home/pi/workspace/wiflistener/
+for i in {0..99}
+do
+	file="records"$i".log"
+	echo $file
+	if [ ! -f $file ]
+	then
+		filename="/home/pi/workspace/wiflistener/"$file
+		break
+	fi	
+done
 echo "Starting script at $(date)" >> $filename
+sleep 15
 wpa_cli scan >> $filename
 sleep 5
 
@@ -19,12 +28,12 @@ else
 fi
 
 num=1
+echo "$num is 1 and my script is working up to this point $loop" >> $filename
 
 while [[ $num -le $loop ]]
 do
-	echo $num
 	echo "ITERATION $num" >> $filename
-	date >> $filename
+	echo $(date) >> $filename
 	wpa_cli scan_results | sed '/Selected/,+1 d' >> $filename
 	echo "END ITERATION $num" >> $filename
 	sleep 5
