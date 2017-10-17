@@ -28,7 +28,6 @@ else
 fi
 
 num=1
-echo "$num is 1 and my script is working up to this point $loop" >> $filename
 
 while [[ $num -le $loop ]]
 do
