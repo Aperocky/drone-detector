@@ -2,12 +2,12 @@
  
 # Sleep to wait for system ready
 cd /home/pi/workspace/wiflistener/
-for i in {0..99}
+for i in {0..999}
 do
-	file="records"$i".log"
-	echo $file
+	file="data/records"$i".log"
 	if [ ! -f $file ]
 	then
+		echo "Filename chosen is "$file
 		filename="/home/pi/workspace/wiflistener/"$file
 		break
 	fi	
