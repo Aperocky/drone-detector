@@ -1,5 +1,5 @@
 #!/bin/bash
- 
+
 # Sleep to wait for system ready
 cd /home/pi/workspace/wiflistener/
 for i in {0..999}
@@ -10,7 +10,7 @@ do
 		echo "Filename chosen is "$file
 		filename="/home/pi/workspace/wiflistener/"$file
 		break
-	fi	
+	fi
 done
 echo "Starting script at $(date)" >> $filename
 sleep 15
