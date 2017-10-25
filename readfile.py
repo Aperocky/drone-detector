@@ -32,10 +32,11 @@ def filedata(filename, *args):
             line  = fi.readline()
 
         # Process time string
-        timepiece = line.split()
-        time = " ".join(timepiece[1:4])
-        if not 'Start_Time' in data:
-            data['Start_Time'] = time
+        timepiece = line.split()[1:]
+        timepiece.remove('EDT')
+        time = " ".join(timepiece)
+        if index == 10:
+            data['Stable_Time'] = time
 
         # Read the scanned entries
         while(True):
