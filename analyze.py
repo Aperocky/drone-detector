@@ -11,6 +11,7 @@ from readfile import filedata as read
 def create_data(filename):
     # Input types json and log accepted.
     fn = filename.split('.')
+    fout = fn[0] + '_report.txt'
     if fn[1] == 'json':
         with open(filename) as json_data:
             data = json.load(json_data)
@@ -18,7 +19,7 @@ def create_data(filename):
         data = read(filename)
     else:
         sys.exit("File not found")
-    return data
+    return data, fout
 
 
 """ Returns continuous time interval the radio source has been present. """
@@ -94,12 +95,15 @@ def get_start_time(data):
 
 
 """ Analyze and output results """
-def analyze(data, filename="", dt=5, skip=False):
+def analyze(data, fout='', dt=5, skip=False):
 
     #Get Stable time
     start_time = get_start_time(data)
 
+    fo = open(fout, 'a')
+
     if skip==True:
+        fo.write("This report has stripped existing wifi network like Duke and eduroam\n")
         print("This report has stripped existing wifi network like Duke and eduroam")
 
     for key, value in data.items():
@@ -138,9 +142,22 @@ def analyze(data, filename="", dt=5, skip=False):
         # Print header
         print("\nRadio Source: %s \nMAC: %s \t Frequency: %s MHz \nAppeared for %s"
         % (name, key, freq, timestr))
+        fo.write("\nRadio Source: %s \nMAC: %s \t Frequency: %s MHz \nAppeared for %s\n"
+        % (name, key, freq, timestr))
 
         # Print time intervals
         intervalnum = len(times)
+
+        fo.write("It has been detected in %d intervals\n" % intervalnum)
+        if intervalnum > 20:
+            fo.write("The interval of it's existance is :\n")
+            fo.write("From %s to %s\n" % (times[0][0], times[-1][1]))
+            fo.write("A full list of intervals are not printed due to there are too many of them\n")
+        else:
+            for time in times:
+                fo.write("Detected from %s to %s\n" % (time[0], time[1]))
+        fo.write("It's power ranged from %d ~ %d dbm\n" % (mini, maxi))
+
         print("It has been detected in %d intervals" % intervalnum)
         if intervalnum > 20:
             print("The interval of it's existance is :")
@@ -151,6 +168,8 @@ def analyze(data, filename="", dt=5, skip=False):
                 print("Detected from %s to %s" % (time[0], time[1]))
 
         print("It's power ranged from %d ~ %d dbm" % (mini, maxi))
+        
+    fo.close()
 
         # IF FOUT EXIST
 
@@ -158,9 +177,9 @@ if __name__ == '__main__':
     if (len(sys.argv) == 1):
         sys.exit("You need to specify the filename!")
     filename = sys.argv[1]
-    data = create_data(filename)
+    data, fout = create_data(filename)
     if (len(sys.argv) > 2):
         boo = (sys.argv[2] == 'True')
-        analyze(data, skip=boo)
+        analyze(data, fout=fout, skip=boo)
     else:
-        analyze(data)
+        analyze(data, fout=fout)

@@ -25,7 +25,7 @@ def graph(data, name, num = 0):
     for interval in intervals:
         leng = interval[1] - interval[0] + 1
         track_slice = track[tracker: tracker+leng]
-        tracker += leng + 1
+        tracker += leng
         lengths.append(leng)
         tracks.append(track_slice)
         stastr = analyze.str_time(start_time, interval[0])
@@ -34,12 +34,23 @@ def graph(data, name, num = 0):
 
     fig = plt.figure()
     ax = fig.add_subplot(111)
-    ax.plot(range(lengths[num]), tracks[num])
-    ax.set_title("Interval %d for %s" % (num, callsign))
-    ax.set_xlabel("From %s to %s" % (times[num][0], times[num][1]))
-    ax.set_ylabel('dbm')
-    ax.grid(True)
-    plt.show()
+
+    if num == -1:
+        ax.scatter(index, track, s=1)
+        ax.set_title("All time for %s" % callsign)
+        ax.set_xlabel("From %s to %s" % (times[0][0], times[-1][1]))
+        ax.set_ylabel('dbm')
+        ax.set_ylim(-100,0)
+        ax.set_xlim(intervals[0][0], intervals[1][1])
+        ax.grid(True)
+        plt.show()
+    else:
+        ax.plot(range(lengths[num]), tracks[num])
+        ax.set_title("Interval %d for %s" % (num, callsign))
+        ax.set_xlabel("From %s to %s" % (times[num][0], times[num][1]))
+        ax.set_ylabel('dbm')
+        ax.grid(True)
+        plt.show()
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
