@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # Sleep to wait for system ready
-cd /home/pi/workspace/wiflistener/
+cd /home/pi/workspace/drone-detector/
 for i in {0..999}
 do
 	file="data/records"$i".log"
 	if [ ! -f $file ]
 	then
 		echo "Filename chosen is "$file
-		filename="/home/pi/workspace/wiflistener/"$file
+		filename="/home/pi/workspace/drone-detector/"$file
 		break
 	fi
 done
